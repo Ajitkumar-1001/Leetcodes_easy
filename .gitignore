@@ -1,2 +1,6 @@
-Easyyy/
-Eas/
+
+.venv/
+
+pyproject.toml
+uv.lock
+practice_probs.egg-info
